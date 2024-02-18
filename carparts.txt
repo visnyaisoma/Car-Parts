@@ -1,0 +1,213 @@
+ABS
+Anti-block system
+ABS module
+ABS pump
+ABS sensor
+Accelerator pedal
+Air conditioning compressor
+Air conditioning condenser
+Air conditioning evaporator
+Air conditioning expansion valve
+Air conditioning receiver drier
+Air conditioning system
+Air filter
+Airbag
+Alternator
+Antenna
+Armrest
+Axles
+Ball joint
+Battery
+Battery cable
+Belt tensioner
+Blower motor
+Body control module 
+BCM
+Body panel
+Brake booster
+Brake caliper
+Brake fluid reservoir
+Brake hose
+Brake line
+Brake master cylinder
+Brake pads
+Brake rotor
+Brake disc
+Brake
+Bumper
+Cabin air filter
+Camshaft
+Camshaft position sensor
+Car stereo
+Catalytic converter
+Chassis
+Clutch
+Clutch master cylinder
+Clutch pedal
+Clutch slave cylinder
+Coil spring
+Control arm
+Cooling fan
+Crankcase ventilation system
+Crankshaft
+Crankshaft position sensor
+Cruise control module
+CV joint
+Cylinder head
+Dashboard
+Differential
+Distributor
+Door
+Door handle
+Drive shaft
+EGR valve 
+Exhaust Gas Recirculation
+Electric fuel pump
+Engine
+Engine control module 
+ECM
+Engine oil cooler
+Engine oil dipstick
+Engine oil pan
+Engine oil pump
+Engine thermostat
+Engine timing cover
+Engine valve cover
+Exhaust manifold
+Exhaust system
+Exhaust valve
+Fan belt
+Fenders
+Flex plate
+Floor mat
+Flywheel
+Fog lights
+Fuel cap
+Fuel filter
+Fuel gauge
+Fuel injector
+Fuel line
+Fuel pressure regulator
+Fuel pump
+Fuel rail
+Fuel tank
+Fuel tank filler neck
+Fuse box
+Gear shifter
+Glove box
+Grille
+Harmonic balancer
+Headlight
+Heater core
+Heater hose
+Heater valve
+Hood
+Horn
+HVAC control
+Ignition coil
+Ignition control module
+ICM
+Ignition switch
+Ignition system
+Instrument cluster
+Intake manifold
+Intake valve
+Intercooler
+Jack
+Knock sensor
+Leaf spring
+License plate bracket
+Liftgate
+Light bulb
+Main bearing
+Mass airflow sensor
+MAF
+Master cylinder
+Muffler
+Navigation system
+Oil cooler
+Oil filter
+Oil pressure sensor
+Oil pump
+Oxygen sensor
+Parking brake
+Parking brake cable
+Parking brake lever
+PCV valve 
+Positive Crankcase Ventilation
+Power steering fluid reservoir
+Power steering hose
+Power steering pump
+Power steering rack
+Power window
+Radiator
+Radiator fan
+Radiator hose
+Radio antenna
+Rearview mirror
+Rocker arms
+Roof rack
+Seat belt
+Seats
+Serpentine belt
+Shock absorbers
+Side mirror
+Spark plug
+Speedometer
+Spoiler
+Spring
+Starter
+Steering column
+Steering gearbox
+Steering wheel
+Strut
+Sunroof
+Suspension
+Tailgate
+Tail light
+Thermostat
+Throttle body
+Throttle position sensor 
+TPS
+Tie rod
+Timing belt
+Timing chain
+Tire pressure monitoring system 
+TPMS
+Tire
+Torque converter
+Traction control system 
+TCS
+Transmission
+Transmission control module
+TCM
+Transmission cooler
+Transmission fluid dipstick
+Transmission fluid pan
+Transmission fluid pump
+Transmission fluid reservoir
+Transmission fluid temperature sensor
+Transmission mount
+Transmission oil cooler
+Transmission shifter cable
+Trunk
+Trunk lid
+Turbocharger
+Turn signal
+Valve cover gasket
+Valve spring
+Vehicle speed sensor
+VSS
+Voltage regulator
+Water pump
+Wheel bearing
+Wheel cylinder
+Wheel hub
+Wheel speed sensor
+Wheel
+Window motor
+Window regulator
+Windshield
+Windshield washer fluid reservoir
+Windshield wiper
+Wiper blade
